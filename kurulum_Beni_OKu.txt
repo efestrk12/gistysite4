@@ -1,0 +1,52 @@
+Egenet Bilisim - Php Hazýr Site.
+
+Merhaba arkadaþlar yeni bir script ile karþýnýzdayýz. Php Hazýr Site ile kýsa zamanda web sitenizi
+hazýrlayabilirsiniz. Php Hazýr Sitede basit bir yönetim paneli bulunmaktadýr.Panel ile html ve php dosyalarý
+üzerinde online olarak deðiþiklikler yapabilir ayrýca yine panel yardýmýyla sunucunuza dosya yükleyip
+silebilirsiniz.
+
+Hazýrladýðýmýz örnek, 4 adet ana sayfa ve bunlarýn içeriklerinin saðlandýðý 4 adet içerik sayfasýndan
+oluþmaktadýr.
+
+Sitede yeralan logo ve menu dosyalarýný kendinize göre deðiþtirmek isterseniz gerekli png ve psd dosyalarý 
+eklenmiþtir. Png dosyalarýný Fireworks, Psd dosyalarýný ise Photoshop programlarýyla kendinize göre kolayca
+düzenliyebilirsiniz.
+
+Kurulum ve Kullaným Bilgileri:
+
+- Sistemi kullanmak için phphazirsite.rar dosyasýndan cýkan bütün dosyalarý sunucuza herhangi bir ftp
+programýyla yükleyin. ( not: sunucunuzun (server) php destekli olmasý gerekmektedir ).
+
+- Site dosyalarý üzerinde online olarak deðiþiklik yapmak istiyorsanýz aþaðýdaki dosyalarýn Chmod yani 
+yazma izni ayarlarýný 777 yapýn.
+
+- Chmod777 yapýlacak dosyalar: anasayfa_icerik.php , hakkimizda_icerik.php , iletisim_icerik.php ,  
+urunlerimiz_icerik.php , altbolum.php , ust_bolum.php
+
+- Eðer sitenize yönetim paneli üzerinden resim dosyasý yüklemek isterseniz "images" klasörünün Chmod 
+ayarýný 777 yapmalýsýnýz.
+
+- Sitenizin yonetim paneline www.sitenizinadi.com/editor.php adresinden giriþ yapabilirsiniz.
+
+- Geçici þifresiz: benidegistir
+
+- Þifrenizi deðiþtirmek için bilgisayarýnýzda "editor.php" dosyasýný herhangi bir text editör ile açýn. 
+17. satýrdan þifrenizi deðiþtirebilirsiniz.
+
+- Sitenin tasarýmýnda içerikler ana sayfalara include edilmiþtir. Sitenizin alt ve üst kýsýmlarýný deðiþtirmek 
+isterseniz ust_bolum.php ve alt_bolum.php dosyalarýndan gerekli deðiþiklikleri yapabilirsiniz.Ayrýca
+online olarak bu dosyalarý deðiþtirmek isterseniz dosyalara sunucunuzda yazma izni verdikten sonra
+gerekli ayarlarý yapabilirsiniz.
+
+- Php Hazýr Site, php destekli windows ve linux sunucularda rahatça çalýþabilir.
+
+- Üst kýsýmda yeralan google reklamýný ust_bolum.php dosyasýndan kaldýrabilirsiniz.
+
+- Siteyi kullanýrsanýz aþaðýda yeralan " egenet bilisim - php hazýr site " yazýsýný silmezseniz seviniriz.
+
+- Php Hazýr Site ilk sürümü olduðundan sistemde yeralan html editör basit tutulmuþtur. Ýlerki versiyonlarda
+gerekli iyileþtirmeler yapýlacaktýr..
+
+Bize labs@egenetbilisim.com adresinden ulaþabilirsiniz.
+
+Ayrýca diðer scriptlerimiz için http://www.egenetbilisim.com/scripts/ adresini ziyaret edebilirsiniz.
